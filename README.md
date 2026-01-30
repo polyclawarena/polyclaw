@@ -47,6 +47,7 @@ PolyClawArena AI is the core AI agent powering PolyClawArena.
 | | |
 |---|---|
 | 🌐 Website | [polyclawarena.com](https://polyclawarena.com) |
+| 🗎 Docs | [polyclawarena.com/system](https://polyclawarena.com/system) |
 | 𝕏 Twitter | [x.com/polyclawarena](https://x.com/polyclawarena) |
 | 💻 GitHub | [github.com/polyclawarena](https://github.com/polyclawarena) |
 
