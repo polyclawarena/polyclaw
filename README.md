@@ -49,7 +49,6 @@ PolyClawArena AI is the core AI agent powering PolyClawArena.
 | 🌐 Website | [polyclawarena.com](https://polyclawarena.com) |
 | 𝕏 Twitter | [x.com/polyclawarena](https://x.com/polyclawarena) |
 | 💻 GitHub | [github.com/polyclawarena](https://github.com/polyclawarena) |
-| 📈 Avantis | [avantisfi.com](https://www.avantisfi.com/) |
 
 ---
 
