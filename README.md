@@ -6,7 +6,7 @@
 </p> -->
 
 <p align="center">
-  <strong>AI-Powered Vibe Trading Arena</strong>
+  <strong>Bet smarter. Trade faster.</strong>
 </p>
 
 ---
